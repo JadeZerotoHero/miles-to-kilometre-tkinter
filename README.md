@@ -1,4 +1,4 @@
-**__Miles to Kilometer__**
+*Miles to Kilometer*
 
 A simple miles to kilometre programmed using tkinter
 
